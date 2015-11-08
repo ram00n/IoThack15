@@ -27,7 +27,7 @@ To configure the beacons, we used <https://interactor.swisscom.ch/>.
 # 6) Wo ist Walter? (Status: done, PoC working)
 An offline indicator that shows the current location of a person, using beacons for localization. 
 Here we used previous work (IoT-gauge <http://www.instructables.com/id/IoT-Gauge-with-Arduino-Yaler-IFTTT/>) and combined it with an iPhone app. The app is based on the "Hello Beacon"-app but calls an URL in the background.
-Source: <>
+Source: <http://ramun.ch/public_html/IoThack15/Interactor.zip>
 
 In the end, we combined these bits & pieces into a new project: Fill My Basket (<http://iot.dribd.at/project/24>).
 
